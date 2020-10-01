@@ -6,8 +6,8 @@ function Home() {
       
     <div class="jumbotron jumbotron-fluid">
     <div class="container">
-    <h1 class="display-4">Fluid jumbotron</h1>
-    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p> </div>
+    <h1 class="display-4">Azeroth's Cash Grab</h1>
+    <p class="lead">Got that cash? Make more!</p> </div>
     </div>
 
     </div>
